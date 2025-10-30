@@ -1,0 +1,3 @@
+[submodule "nob"]
+	path = nob
+	url = git@github.com:tsoding/nob.h.git
