@@ -5,7 +5,7 @@
 #include <string.h>
 
 #define NOB_IMPLEMENTATION
-#include "nob-lib/nob.h"
+#include "vendor/nob/nob.h"
 
 #define CXX           "gcc"
 #define MAIN_EXE_NAME "exe"
